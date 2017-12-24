@@ -12,3 +12,6 @@ print("-5.3e-10"*"2")
 -- end
 -- print(tostring(10)=="10")
 -- print(10 ..""=="10")
+a="hello"
+print(#a)
+print(#"good\0bye")
