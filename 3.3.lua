@@ -8,3 +8,4 @@ print(not nil)
 print(not false)
 print(not 0)
 print(not not nil)
+
